@@ -229,7 +229,7 @@ document.querySelector('#app').innerHTML = `
 
       <div class="footer-bottom">
         <span>
-          © 2026 ShopSM. All rights reserved.
+          © 2026 ShopSM. All rights reservedDFSFSDF.
         </span>
 
         <strong>SHOPSM</strong>
